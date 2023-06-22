@@ -32,7 +32,7 @@ if (!isset($_SESSION['id'])){
                      $conexao ->query($sql);
                 ?>
         
-        //Adicionar Postagem
+        //Adicionar Postagem s
         <input type="text" name="postagem" placeholder="O que você gostaria de dizer">
 
         <?php
